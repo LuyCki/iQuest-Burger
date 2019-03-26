@@ -1,0 +1,16 @@
+.meat {
+    width: 90%;
+    height: 15%;
+    background: linear-gradient(#8c582b, #7e4e29);
+    border-radius: 20px;
+}
+
+.meat:before {
+    content: '';
+    position: absolute;
+    margin-left: 325px;
+    width: 35px;
+    height: 50px;
+    background: #7e4e29;
+    border-radius: 0 20px 20px 0;
+}

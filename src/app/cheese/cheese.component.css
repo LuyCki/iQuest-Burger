@@ -1,0 +1,16 @@
+.cheese {
+    width: 90%;
+    height: 5%;
+    background: linear-gradient(#fcdf07, #fbc000);
+    border-radius: 10px;
+}
+
+.cheese:after {
+    content: '';
+    position: absolute;
+    margin-left: 325px;
+    width: 35px;
+    height: 17px;
+    background: #fbc000;
+    border-radius: 0 10px 10px 0;
+}

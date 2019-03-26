@@ -1,0 +1,7 @@
+.bread-top {
+    height: 30%;
+    width: 90%;
+    background: linear-gradient( #d87634, #f7bc50);
+    border-radius: 100% 100% 0 0;
+    box-shadow: inset -35px 0 #bd5b19;
+}

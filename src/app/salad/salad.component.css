@@ -1,0 +1,16 @@
+.salad {
+    width: 90%;
+    height: 4%;
+    background: linear-gradient(#acc135, #8a9d2b);
+    border-radius: 10px;
+}
+
+.salad:after {
+    content: '';
+    position: absolute;
+    margin-left: 325px;
+    width: 35px;
+    height: 17px;
+    background: #8a9d2b;
+    border-radius: 0 10px 10px 0;
+}
