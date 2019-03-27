@@ -5,11 +5,6 @@ import { Component, OnInit } from '@angular/core';
   templateUrl: './bread-bottom.component.html',
   styleUrls: ['./bread-bottom.component.css']
 })
-export class BreadBottomComponent implements OnInit {
-
-  constructor() { }
-
-  ngOnInit() {
-  }
+export class BreadBottomComponent {
 
 }

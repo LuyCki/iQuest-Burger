@@ -1,0 +1,11 @@
+.plate {
+    content: '';
+    position: absolute;
+    width: 400px;
+    margin-left: -22.5px;
+    margin-top: -50px;
+    height: 120px;
+    background: #732a0e;
+    border-radius: 45%;
+    z-index: -1;
+}

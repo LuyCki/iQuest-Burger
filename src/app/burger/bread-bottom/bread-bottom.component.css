@@ -1,0 +1,8 @@
+.bread-bottom {
+    width: 90%;
+    height: 10%;
+    background: linear-gradient(#f08e4a, #e27b36);
+    box-shadow: inset -35px 0 #bd5b19;
+    border-radius: 0 0 30px 30px;
+    
+}
